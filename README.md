@@ -2,7 +2,7 @@
 
 ## はじめに
 
-このリポジトリは公式サイト「[Ruby on Railsのチュートリアル](https://guides.rubyonrails.org/getting_started.html)」をみながら作業しなものになります。
+このリポジトリは公式サイト「[Ruby on Railsのチュートリアル](https://guides.rubyonrails.org/getting_started.html)」をみながら作業したものになります。
 
 英文なので、和訳をしながら作業しました。
 [Qiita](https://qiita.com/holy8282/items/a236e13415b14e9a8fc1)
